@@ -1,0 +1,1 @@
+This is the new repo crated for the Selenium course from one and only Fabryka Testów!!!
